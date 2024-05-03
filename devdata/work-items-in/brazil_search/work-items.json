@@ -1,0 +1,26 @@
+[
+  {
+    "payload": {
+      "search_phrase": "Brazil",
+      "topic": "Soccer",
+      "n_months": 5,
+      "max_news": "999"
+    }
+  },
+  {
+    "payload": {
+      "search_phrase": "Spain",
+      "topic": "Soccer",
+      "n_months": 5,
+      "max_news": 999
+    }
+  },
+  {
+    "payload": {
+      "search_phrase": "Test",
+      "topic": "California",
+      "n_months": 5,
+      "max_news": 999
+    }
+  }
+]

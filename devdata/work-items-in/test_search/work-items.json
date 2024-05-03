@@ -1,0 +1,10 @@
+[
+  {
+    "payload": {
+      "search_phrase": "Test",
+      "topic": "nao tem esse topico",
+      "n_months": 0,
+      "max_news": 0
+    }
+  }
+]

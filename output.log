@@ -1,0 +1,718 @@
+2024-05-03T14:41:32.975768-0300 - INFO - Item payload: {'search_phrase': 'Brazil', 'topic': 'Soccer', 'n_months': 5, 'max_news': 999}
+2024-05-03T14:41:32.984769-0300 - INFO - Search phrase: Brazil
+2024-05-03T14:41:36.424269-0300 - INFO - Choosing topic: Soccer
+2024-05-03T14:41:36.870769-0300 - INFO - Topic checked
+2024-05-03T14:41:41.871268-0300 - INFO - Sorting by Newest
+2024-05-03T14:41:47.158792-0300 - INFO - Starting scrape
+2024-05-03T14:41:47.176769-0300 - INFO - Starting scraping of news: 1
+2024-05-03T14:41:47.211268-0300 - INFO - validating limit date for: April 29, 2024
+2024-05-03T14:41:47.212268-0300 - INFO - Trying to parse date: April 29, 2024
+2024-05-03T14:41:47.327768-0300 - INFO - Starting validations for news
+2024-05-03T14:41:47.332268-0300 - INFO - Downloading picture...
+2024-05-03T14:41:48.395769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:48.397270-0300 - INFO - Starting scraping of news: 2
+2024-05-03T14:41:48.422768-0300 - INFO - validating limit date for: March 11, 2024
+2024-05-03T14:41:48.423771-0300 - INFO - Trying to parse date: March 11, 2024
+2024-05-03T14:41:48.491793-0300 - INFO - Starting validations for news
+2024-05-03T14:41:48.495296-0300 - INFO - Downloading picture...
+2024-05-03T14:41:49.060768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:49.062268-0300 - INFO - Starting scraping of news: 3
+2024-05-03T14:41:49.088268-0300 - INFO - validating limit date for: March 10, 2024
+2024-05-03T14:41:49.089268-0300 - INFO - Trying to parse date: March 10, 2024
+2024-05-03T14:41:49.168769-0300 - INFO - Starting validations for news
+2024-05-03T14:41:49.171768-0300 - INFO - Downloading picture...
+2024-05-03T14:41:49.841268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:49.843269-0300 - INFO - Starting scraping of news: 4
+2024-05-03T14:41:49.873269-0300 - INFO - validating limit date for: March 7, 2024
+2024-05-03T14:41:49.874768-0300 - INFO - Trying to parse date: March 7, 2024
+2024-05-03T14:41:49.954767-0300 - INFO - Starting validations for news
+2024-05-03T14:41:49.958268-0300 - INFO - Downloading picture...
+2024-05-03T14:41:50.690268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:50.691769-0300 - INFO - Starting scraping of news: 5
+2024-05-03T14:41:50.718267-0300 - INFO - validating limit date for: March 6, 2024
+2024-05-03T14:41:50.718767-0300 - INFO - Trying to parse date: March 6, 2024
+2024-05-03T14:41:50.786768-0300 - INFO - Starting validations for news
+2024-05-03T14:41:50.790269-0300 - INFO - Downloading picture...
+2024-05-03T14:41:51.548267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:51.550270-0300 - INFO - Starting scraping of news: 6
+2024-05-03T14:41:51.580767-0300 - INFO - validating limit date for: March 4, 2024
+2024-05-03T14:41:51.581268-0300 - INFO - Trying to parse date: March 4, 2024
+2024-05-03T14:41:51.653268-0300 - INFO - Starting validations for news
+2024-05-03T14:41:51.656267-0300 - INFO - Downloading picture...
+2024-05-03T14:41:52.219770-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:52.221268-0300 - INFO - Starting scraping of news: 7
+2024-05-03T14:41:52.254271-0300 - INFO - validating limit date for: March 3, 2024
+2024-05-03T14:41:52.254768-0300 - INFO - Trying to parse date: March 3, 2024
+2024-05-03T14:41:52.375268-0300 - INFO - Starting validations for news
+2024-05-03T14:41:52.379269-0300 - INFO - Downloading picture...
+2024-05-03T14:41:52.944767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:52.946268-0300 - INFO - Starting scraping of news: 8
+2024-05-03T14:41:52.972268-0300 - INFO - validating limit date for: Feb. 23, 2024
+2024-05-03T14:41:52.973769-0300 - INFO - Trying to parse date: Feb. 23, 2024
+2024-05-03T14:41:53.046267-0300 - INFO - Starting validations for news
+2024-05-03T14:41:53.049268-0300 - INFO - Downloading picture...
+2024-05-03T14:41:53.557769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:53.559267-0300 - INFO - Starting scraping of news: 9
+2024-05-03T14:41:53.585269-0300 - INFO - validating limit date for: Feb. 13, 2024
+2024-05-03T14:41:53.586270-0300 - INFO - Trying to parse date: Feb. 13, 2024
+2024-05-03T14:41:53.656291-0300 - INFO - Starting validations for news
+2024-05-03T14:41:53.658795-0300 - INFO - Downloading picture...
+2024-05-03T14:41:54.167267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:41:54.168769-0300 - INFO - Starting scraping of news: 10
+2024-05-03T14:41:54.199792-0300 - INFO - validating limit date for: Dec. 15, 2023
+2024-05-03T14:41:54.200303-0300 - INFO - Trying to parse date: Dec. 15, 2023
+2024-05-03T14:41:54.202770-0300 - INFO - This news date '2023-12-15 00:00:00' is not within the limit date '2024-01-01 00:00:00', finishing scrape...
+2024-05-03T14:41:54.205794-0300 - INFO - Creating Excel file
+2024-05-03T14:41:54.230268-0300 - INFO - Saved Excel file
+2024-05-03T14:41:54.231769-0300 - INFO - Scrape of phrase 'Brazil' finished.
+2024-05-03T14:41:54.236769-0300 - INFO - Item payload: {'search_phrase': 'Spain', 'topic': 'Soccer', 'n_months': 5, 'max_news': 999}
+2024-05-03T14:41:54.239767-0300 - INFO - Search phrase: Spain
+2024-05-03T14:41:57.399269-0300 - INFO - Choosing topic: Soccer
+2024-05-03T14:41:57.926769-0300 - INFO - Topic checked
+2024-05-03T14:42:02.927793-0300 - INFO - Sorting by Newest
+2024-05-03T14:42:08.064768-0300 - INFO - Starting scrape
+2024-05-03T14:42:08.076795-0300 - INFO - Starting scraping of news: 1
+2024-05-03T14:42:08.100268-0300 - INFO - validating limit date for: April 16, 2024
+2024-05-03T14:42:08.101271-0300 - INFO - Trying to parse date: April 16, 2024
+2024-05-03T14:42:08.165796-0300 - INFO - Starting validations for news
+2024-05-03T14:42:08.167794-0300 - INFO - Downloading picture...
+2024-05-03T14:42:08.785769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:08.786769-0300 - INFO - Starting scraping of news: 2
+2024-05-03T14:42:08.809769-0300 - INFO - validating limit date for: April 2, 2024
+2024-05-03T14:42:08.810768-0300 - INFO - Trying to parse date: April 2, 2024
+2024-05-03T14:42:08.901267-0300 - INFO - Starting validations for news
+2024-05-03T14:42:08.904268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:09.512292-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:09.513269-0300 - INFO - Starting scraping of news: 3
+2024-05-03T14:42:09.580768-0300 - INFO - validating limit date for: Feb. 27, 2024
+2024-05-03T14:42:09.581268-0300 - INFO - Trying to parse date: Feb. 27, 2024
+2024-05-03T14:42:09.769268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:09.772769-0300 - INFO - Downloading picture...
+2024-05-03T14:42:10.450768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:10.451768-0300 - INFO - Starting scraping of news: 4
+2024-05-03T14:42:10.479767-0300 - INFO - validating limit date for: Dec. 26, 2023
+2024-05-03T14:42:10.480768-0300 - INFO - Trying to parse date: Dec. 26, 2023
+2024-05-03T14:42:10.484268-0300 - INFO - This news date '2023-12-26 00:00:00' is not within the limit date '2024-01-01 00:00:00', finishing scrape...
+2024-05-03T14:42:10.486267-0300 - INFO - Creating Excel file
+2024-05-03T14:42:10.506767-0300 - INFO - Saved Excel file
+2024-05-03T14:42:10.507767-0300 - INFO - Scrape of phrase 'Spain' finished.
+2024-05-03T14:42:10.512768-0300 - INFO - Item payload: {'search_phrase': 'Test', 'topic': 'California', 'n_months': 5, 'max_news': 999}
+2024-05-03T14:42:10.514768-0300 - INFO - Search phrase: Test
+2024-05-03T14:42:14.805270-0300 - INFO - Choosing topic: California
+2024-05-03T14:42:15.555267-0300 - INFO - Topic checked
+2024-05-03T14:42:20.556297-0300 - INFO - Sorting by Newest
+2024-05-03T14:42:25.698770-0300 - INFO - Starting scrape
+2024-05-03T14:42:25.712271-0300 - INFO - Starting scraping of news: 1
+2024-05-03T14:42:25.777768-0300 - INFO - validating limit date for: May 3, 2024
+2024-05-03T14:42:25.778268-0300 - INFO - Trying to parse date: May 3, 2024
+2024-05-03T14:42:25.842268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:25.845268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:26.315267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:26.317268-0300 - INFO - Starting scraping of news: 2
+2024-05-03T14:42:26.342267-0300 - INFO - validating limit date for: May 3, 2024
+2024-05-03T14:42:26.342768-0300 - INFO - Trying to parse date: May 3, 2024
+2024-05-03T14:42:26.406268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:26.409767-0300 - INFO - Downloading picture...
+2024-05-03T14:42:26.844267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:26.845270-0300 - INFO - Starting scraping of news: 3
+2024-05-03T14:42:26.871771-0300 - INFO - validating limit date for: 1 hour ago
+2024-05-03T14:42:26.936302-0300 - INFO - Starting validations for news
+2024-05-03T14:42:26.939293-0300 - INFO - Downloading picture...
+2024-05-03T14:42:27.368792-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:27.369769-0300 - INFO - Starting scraping of news: 4
+2024-05-03T14:42:27.395768-0300 - INFO - validating limit date for: May 2, 2024
+2024-05-03T14:42:27.396268-0300 - INFO - Trying to parse date: May 2, 2024
+2024-05-03T14:42:27.473268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:27.476268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:27.921767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:27.923293-0300 - INFO - Starting scraping of news: 5
+2024-05-03T14:42:27.954292-0300 - INFO - validating limit date for: May 3, 2024
+2024-05-03T14:42:27.955269-0300 - INFO - Trying to parse date: May 3, 2024
+2024-05-03T14:42:28.028792-0300 - INFO - Starting validations for news
+2024-05-03T14:42:28.031768-0300 - INFO - Downloading picture...
+2024-05-03T14:42:28.471768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:28.473308-0300 - INFO - Starting scraping of news: 6
+2024-05-03T14:42:28.502268-0300 - INFO - validating limit date for: May 2, 2024
+2024-05-03T14:42:28.502791-0300 - INFO - Trying to parse date: May 2, 2024
+2024-05-03T14:42:28.578293-0300 - INFO - Starting validations for news
+2024-05-03T14:42:28.581269-0300 - INFO - Downloading picture...
+2024-05-03T14:42:29.015793-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:29.016769-0300 - INFO - Starting scraping of news: 7
+2024-05-03T14:42:29.047269-0300 - INFO - validating limit date for: May 2, 2024
+2024-05-03T14:42:29.047767-0300 - INFO - Trying to parse date: May 2, 2024
+2024-05-03T14:42:29.123800-0300 - INFO - Starting validations for news
+2024-05-03T14:42:29.126795-0300 - INFO - Downloading picture...
+2024-05-03T14:42:29.561768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:29.562768-0300 - INFO - Starting scraping of news: 8
+2024-05-03T14:42:29.624768-0300 - INFO - validating limit date for: May 2, 2024
+2024-05-03T14:42:29.625768-0300 - INFO - Trying to parse date: May 2, 2024
+2024-05-03T14:42:29.693269-0300 - INFO - Starting validations for news
+2024-05-03T14:42:29.696267-0300 - INFO - Downloading picture...
+2024-05-03T14:42:30.132767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:30.133768-0300 - INFO - Starting scraping of news: 9
+2024-05-03T14:42:30.166767-0300 - INFO - validating limit date for: May 1, 2024
+2024-05-03T14:42:30.167767-0300 - INFO - Trying to parse date: May 1, 2024
+2024-05-03T14:42:30.244266-0300 - INFO - Starting validations for news
+2024-05-03T14:42:30.247269-0300 - INFO - Downloading picture...
+2024-05-03T14:42:30.685768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:30.686771-0300 - INFO - Starting scraping of news: 10
+2024-05-03T14:42:30.716793-0300 - INFO - validating limit date for: May 1, 2024
+2024-05-03T14:42:30.717769-0300 - INFO - Trying to parse date: May 1, 2024
+2024-05-03T14:42:30.797282-0300 - INFO - Starting validations for news
+2024-05-03T14:42:30.800292-0300 - INFO - Downloading picture...
+2024-05-03T14:42:31.233769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:31.235268-0300 - INFO - Going to next page: 2
+2024-05-03T14:42:38.287276-0300 - INFO - Starting scraping of news: 11
+2024-05-03T14:42:38.312269-0300 - INFO - validating limit date for: May 1, 2024
+2024-05-03T14:42:38.312780-0300 - INFO - Trying to parse date: May 1, 2024
+2024-05-03T14:42:38.383810-0300 - INFO - Starting validations for news
+2024-05-03T14:42:38.386767-0300 - INFO - Downloading picture...
+2024-05-03T14:42:38.741769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:38.742770-0300 - INFO - Starting scraping of news: 12
+2024-05-03T14:42:38.770769-0300 - INFO - validating limit date for: May 1, 2024
+2024-05-03T14:42:38.771768-0300 - INFO - Trying to parse date: May 1, 2024
+2024-05-03T14:42:38.836267-0300 - INFO - Starting validations for news
+2024-05-03T14:42:38.839269-0300 - INFO - Downloading picture...
+2024-05-03T14:42:39.198769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:39.200269-0300 - INFO - Starting scraping of news: 13
+2024-05-03T14:42:39.227768-0300 - INFO - validating limit date for: April 30, 2024
+2024-05-03T14:42:39.228769-0300 - INFO - Trying to parse date: April 30, 2024
+2024-05-03T14:42:39.300268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:39.303768-0300 - INFO - Downloading picture...
+2024-05-03T14:42:39.654768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:39.655767-0300 - INFO - Starting scraping of news: 14
+2024-05-03T14:42:39.681768-0300 - INFO - validating limit date for: April 29, 2024
+2024-05-03T14:42:39.682768-0300 - INFO - Trying to parse date: April 29, 2024
+2024-05-03T14:42:39.752792-0300 - INFO - Starting validations for news
+2024-05-03T14:42:39.756293-0300 - INFO - Downloading picture...
+2024-05-03T14:42:40.105268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:40.106268-0300 - INFO - Starting scraping of news: 15
+2024-05-03T14:42:40.132268-0300 - INFO - validating limit date for: April 29, 2024
+2024-05-03T14:42:40.133268-0300 - INFO - Trying to parse date: April 29, 2024
+2024-05-03T14:42:40.205267-0300 - INFO - Starting validations for news
+2024-05-03T14:42:40.207768-0300 - INFO - Downloading picture...
+2024-05-03T14:42:40.562768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:40.563768-0300 - INFO - Starting scraping of news: 16
+2024-05-03T14:42:40.593769-0300 - INFO - validating limit date for: April 29, 2024
+2024-05-03T14:42:40.594768-0300 - INFO - Trying to parse date: April 29, 2024
+2024-05-03T14:42:40.661768-0300 - INFO - Starting validations for news
+2024-05-03T14:42:40.665270-0300 - INFO - Downloading picture...
+2024-05-03T14:42:41.077768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:41.078768-0300 - INFO - Starting scraping of news: 17
+2024-05-03T14:42:41.107768-0300 - INFO - validating limit date for: April 28, 2024
+2024-05-03T14:42:41.108268-0300 - INFO - Trying to parse date: April 28, 2024
+2024-05-03T14:42:41.189269-0300 - INFO - Starting validations for news
+2024-05-03T14:42:41.192770-0300 - INFO - Downloading picture...
+2024-05-03T14:42:41.546769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:41.548269-0300 - INFO - Starting scraping of news: 18
+2024-05-03T14:42:41.577269-0300 - INFO - validating limit date for: April 28, 2024
+2024-05-03T14:42:41.578268-0300 - INFO - Trying to parse date: April 28, 2024
+2024-05-03T14:42:41.646270-0300 - INFO - Starting validations for news
+2024-05-03T14:42:41.649267-0300 - INFO - Downloading picture...
+2024-05-03T14:42:42.000268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:42.001768-0300 - INFO - Starting scraping of news: 19
+2024-05-03T14:42:42.029267-0300 - INFO - validating limit date for: April 28, 2024
+2024-05-03T14:42:42.030267-0300 - INFO - Trying to parse date: April 28, 2024
+2024-05-03T14:42:42.108767-0300 - INFO - Starting validations for news
+2024-05-03T14:42:42.111770-0300 - INFO - Downloading picture...
+2024-05-03T14:42:42.480767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:42.482267-0300 - INFO - Starting scraping of news: 20
+2024-05-03T14:42:42.509268-0300 - INFO - validating limit date for: April 26, 2024
+2024-05-03T14:42:42.510269-0300 - INFO - Trying to parse date: April 26, 2024
+2024-05-03T14:42:42.579268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:42.582269-0300 - INFO - Downloading picture...
+2024-05-03T14:42:42.935268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:42.937269-0300 - INFO - Going to next page: 3
+2024-05-03T14:42:49.589768-0300 - INFO - Starting scraping of news: 21
+2024-05-03T14:42:49.617268-0300 - INFO - validating limit date for: April 26, 2024
+2024-05-03T14:42:49.617769-0300 - INFO - Trying to parse date: April 26, 2024
+2024-05-03T14:42:49.752267-0300 - INFO - Starting validations for news
+2024-05-03T14:42:49.755267-0300 - INFO - Downloading picture...
+2024-05-03T14:42:49.991768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:49.992770-0300 - INFO - Starting scraping of news: 22
+2024-05-03T14:42:50.021268-0300 - INFO - validating limit date for: April 26, 2024
+2024-05-03T14:42:50.022268-0300 - INFO - Trying to parse date: April 26, 2024
+2024-05-03T14:42:50.092768-0300 - INFO - Starting validations for news
+2024-05-03T14:42:50.096269-0300 - INFO - Downloading picture...
+2024-05-03T14:42:50.329269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:50.330768-0300 - INFO - Starting scraping of news: 23
+2024-05-03T14:42:50.359768-0300 - INFO - validating limit date for: April 26, 2024
+2024-05-03T14:42:50.361269-0300 - INFO - Trying to parse date: April 26, 2024
+2024-05-03T14:42:50.428768-0300 - INFO - Starting validations for news
+2024-05-03T14:42:50.432268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:50.657767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:50.659769-0300 - INFO - Starting scraping of news: 24
+2024-05-03T14:42:50.688769-0300 - INFO - validating limit date for: April 26, 2024
+2024-05-03T14:42:50.690769-0300 - INFO - Trying to parse date: April 26, 2024
+2024-05-03T14:42:50.762768-0300 - INFO - Starting validations for news
+2024-05-03T14:42:50.766268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:50.987768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:50.989269-0300 - INFO - Starting scraping of news: 25
+2024-05-03T14:42:51.016268-0300 - INFO - validating limit date for: April 25, 2024
+2024-05-03T14:42:51.017268-0300 - INFO - Trying to parse date: April 25, 2024
+2024-05-03T14:42:51.089769-0300 - INFO - Starting validations for news
+2024-05-03T14:42:51.093268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:51.319268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:51.320769-0300 - INFO - Starting scraping of news: 26
+2024-05-03T14:42:51.349768-0300 - INFO - validating limit date for: April 25, 2024
+2024-05-03T14:42:51.350768-0300 - INFO - Trying to parse date: April 25, 2024
+2024-05-03T14:42:51.420268-0300 - INFO - Starting validations for news
+2024-05-03T14:42:51.423268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:51.632268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:51.633268-0300 - INFO - Starting scraping of news: 27
+2024-05-03T14:42:51.661294-0300 - INFO - validating limit date for: April 25, 2024
+2024-05-03T14:42:51.661767-0300 - INFO - Trying to parse date: April 25, 2024
+2024-05-03T14:42:51.729769-0300 - INFO - Starting validations for news
+2024-05-03T14:42:51.732268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:51.952269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:51.953267-0300 - INFO - Starting scraping of news: 28
+2024-05-03T14:42:51.981768-0300 - INFO - validating limit date for: April 25, 2024
+2024-05-03T14:42:51.982769-0300 - INFO - Trying to parse date: April 25, 2024
+2024-05-03T14:42:52.054794-0300 - INFO - Starting validations for news
+2024-05-03T14:42:52.057268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:52.334769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:52.336268-0300 - INFO - Starting scraping of news: 29
+2024-05-03T14:42:52.362768-0300 - INFO - validating limit date for: April 25, 2024
+2024-05-03T14:42:52.363769-0300 - INFO - Trying to parse date: April 25, 2024
+2024-05-03T14:42:52.503267-0300 - INFO - Starting validations for news
+2024-05-03T14:42:52.506268-0300 - INFO - Downloading picture...
+2024-05-03T14:42:52.736768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:52.737767-0300 - INFO - Starting scraping of news: 30
+2024-05-03T14:42:52.767767-0300 - INFO - validating limit date for: April 24, 2024
+2024-05-03T14:42:52.768268-0300 - INFO - Trying to parse date: April 24, 2024
+2024-05-03T14:42:52.842767-0300 - INFO - Starting validations for news
+2024-05-03T14:42:52.845767-0300 - INFO - Downloading picture...
+2024-05-03T14:42:53.053270-0300 - INFO - News appended to data successfully.
+2024-05-03T14:42:53.055269-0300 - INFO - Going to next page: 4
+2024-05-03T14:42:59.804293-0300 - INFO - Starting scraping of news: 31
+2024-05-03T14:42:59.835768-0300 - INFO - validating limit date for: April 24, 2024
+2024-05-03T14:42:59.836770-0300 - INFO - Trying to parse date: April 24, 2024
+2024-05-03T14:42:59.908766-0300 - INFO - Starting validations for news
+2024-05-03T14:42:59.911768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:00.408767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:00.410269-0300 - INFO - Starting scraping of news: 32
+2024-05-03T14:43:00.439268-0300 - INFO - validating limit date for: April 24, 2024
+2024-05-03T14:43:00.439768-0300 - INFO - Trying to parse date: April 24, 2024
+2024-05-03T14:43:00.523267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:00.526268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:00.969769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:00.970769-0300 - INFO - Starting scraping of news: 33
+2024-05-03T14:43:01.002768-0300 - INFO - validating limit date for: April 23, 2024
+2024-05-03T14:43:01.003267-0300 - INFO - Trying to parse date: April 23, 2024
+2024-05-03T14:43:01.079767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:01.082767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:01.526269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:01.527769-0300 - INFO - Starting scraping of news: 34
+2024-05-03T14:43:01.557268-0300 - INFO - validating limit date for: April 23, 2024
+2024-05-03T14:43:01.558269-0300 - INFO - Trying to parse date: April 23, 2024
+2024-05-03T14:43:01.635293-0300 - INFO - Starting validations for news
+2024-05-03T14:43:01.638293-0300 - INFO - Downloading picture...
+2024-05-03T14:43:02.067767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:02.069268-0300 - INFO - Starting scraping of news: 35
+2024-05-03T14:43:02.100268-0300 - INFO - validating limit date for: April 23, 2024
+2024-05-03T14:43:02.100767-0300 - INFO - Trying to parse date: April 23, 2024
+2024-05-03T14:43:02.173268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:02.176768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:02.614267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:02.615268-0300 - INFO - Starting scraping of news: 36
+2024-05-03T14:43:02.644793-0300 - INFO - validating limit date for: April 21, 2024
+2024-05-03T14:43:02.645282-0300 - INFO - Trying to parse date: April 21, 2024
+2024-05-03T14:43:02.725267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:02.728268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:03.164766-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:03.166268-0300 - INFO - Starting scraping of news: 37
+2024-05-03T14:43:03.199795-0300 - INFO - validating limit date for: April 21, 2024
+2024-05-03T14:43:03.200268-0300 - INFO - Trying to parse date: April 21, 2024
+2024-05-03T14:43:03.274793-0300 - INFO - Starting validations for news
+2024-05-03T14:43:03.277295-0300 - INFO - Downloading picture...
+2024-05-03T14:43:03.727801-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:03.728267-0300 - INFO - Starting scraping of news: 38
+2024-05-03T14:43:03.759269-0300 - INFO - validating limit date for: April 19, 2024
+2024-05-03T14:43:03.760273-0300 - INFO - Trying to parse date: April 19, 2024
+2024-05-03T14:43:03.835783-0300 - INFO - Starting validations for news
+2024-05-03T14:43:03.838767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:04.251770-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:04.253276-0300 - INFO - Starting scraping of news: 39
+2024-05-03T14:43:04.282301-0300 - INFO - validating limit date for: April 18, 2024
+2024-05-03T14:43:04.283276-0300 - INFO - Trying to parse date: April 18, 2024
+2024-05-03T14:43:04.360779-0300 - INFO - Starting validations for news
+2024-05-03T14:43:04.364768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:04.789794-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:04.791303-0300 - INFO - Starting scraping of news: 40
+2024-05-03T14:43:04.824292-0300 - INFO - validating limit date for: April 18, 2024
+2024-05-03T14:43:04.825269-0300 - INFO - Trying to parse date: April 18, 2024
+2024-05-03T14:43:04.901292-0300 - INFO - Starting validations for news
+2024-05-03T14:43:04.904268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:05.344275-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:05.345275-0300 - INFO - Going to next page: 5
+2024-05-03T14:43:13.201269-0300 - INFO - Starting scraping of news: 41
+2024-05-03T14:43:13.234767-0300 - INFO - validating limit date for: April 18, 2024
+2024-05-03T14:43:13.235768-0300 - INFO - Trying to parse date: April 18, 2024
+2024-05-03T14:43:13.311766-0300 - INFO - Starting validations for news
+2024-05-03T14:43:13.315268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:13.785771-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:13.787270-0300 - INFO - Starting scraping of news: 42
+2024-05-03T14:43:13.821268-0300 - INFO - validating limit date for: April 18, 2024
+2024-05-03T14:43:13.822268-0300 - INFO - Trying to parse date: April 18, 2024
+2024-05-03T14:43:13.900766-0300 - INFO - Starting validations for news
+2024-05-03T14:43:13.903768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:14.407269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:14.408769-0300 - INFO - Starting scraping of news: 43
+2024-05-03T14:43:14.443270-0300 - INFO - validating limit date for: April 18, 2024
+2024-05-03T14:43:14.444269-0300 - INFO - Trying to parse date: April 18, 2024
+2024-05-03T14:43:14.520266-0300 - INFO - Starting validations for news
+2024-05-03T14:43:14.524268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:15.024270-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:15.025269-0300 - INFO - Starting scraping of news: 44
+2024-05-03T14:43:15.060293-0300 - INFO - validating limit date for: April 17, 2024
+2024-05-03T14:43:15.061267-0300 - INFO - Trying to parse date: April 17, 2024
+2024-05-03T14:43:15.138793-0300 - INFO - Starting validations for news
+2024-05-03T14:43:15.142796-0300 - INFO - Downloading picture...
+2024-05-03T14:43:15.630295-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:15.631269-0300 - INFO - Starting scraping of news: 45
+2024-05-03T14:43:15.665268-0300 - INFO - validating limit date for: April 16, 2024
+2024-05-03T14:43:15.666267-0300 - INFO - Trying to parse date: April 16, 2024
+2024-05-03T14:43:15.742266-0300 - INFO - Starting validations for news
+2024-05-03T14:43:15.745769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:16.238769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:16.240267-0300 - INFO - Starting scraping of news: 46
+2024-05-03T14:43:16.352768-0300 - INFO - validating limit date for: April 17, 2024
+2024-05-03T14:43:16.353768-0300 - INFO - Trying to parse date: April 17, 2024
+2024-05-03T14:43:16.436268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:16.440269-0300 - INFO - Downloading picture...
+2024-05-03T14:43:16.922767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:16.923767-0300 - INFO - Starting scraping of news: 47
+2024-05-03T14:43:16.958268-0300 - INFO - validating limit date for: April 16, 2024
+2024-05-03T14:43:16.958768-0300 - INFO - Trying to parse date: April 16, 2024
+2024-05-03T14:43:17.045267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:17.048268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:17.547268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:17.548267-0300 - INFO - Starting scraping of news: 48
+2024-05-03T14:43:17.582267-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:17.583268-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:17.670268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:17.673267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:18.193268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:18.194268-0300 - INFO - Starting scraping of news: 49
+2024-05-03T14:43:18.229268-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:18.230269-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:18.314769-0300 - INFO - Starting validations for news
+2024-05-03T14:43:18.317768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:18.830268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:18.831768-0300 - INFO - Starting scraping of news: 50
+2024-05-03T14:43:18.865268-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:18.866268-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:18.957268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:18.961268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:19.492267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:19.493767-0300 - INFO - Going to next page: 6
+2024-05-03T14:43:27.927769-0300 - INFO - Starting scraping of news: 51
+2024-05-03T14:43:27.960268-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:27.961768-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:28.046801-0300 - INFO - Starting validations for news
+2024-05-03T14:43:28.049267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:28.264769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:28.265806-0300 - INFO - Starting scraping of news: 52
+2024-05-03T14:43:28.302271-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:28.303268-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:28.382767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:28.385770-0300 - INFO - Downloading picture...
+2024-05-03T14:43:28.617768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:28.618768-0300 - INFO - Starting scraping of news: 53
+2024-05-03T14:43:28.652268-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:28.652768-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:28.734269-0300 - INFO - Starting validations for news
+2024-05-03T14:43:28.737267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:29.047768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:29.049267-0300 - INFO - Starting scraping of news: 54
+2024-05-03T14:43:29.084766-0300 - INFO - validating limit date for: April 15, 2024
+2024-05-03T14:43:29.086271-0300 - INFO - Trying to parse date: April 15, 2024
+2024-05-03T14:43:29.166267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:29.169269-0300 - INFO - Downloading picture...
+2024-05-03T14:43:29.415268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:29.416769-0300 - INFO - Starting scraping of news: 55
+2024-05-03T14:43:29.452767-0300 - INFO - validating limit date for: April 13, 2024
+2024-05-03T14:43:29.453769-0300 - INFO - Trying to parse date: April 13, 2024
+2024-05-03T14:43:29.531268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:29.534768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:29.750267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:29.751268-0300 - INFO - Starting scraping of news: 56
+2024-05-03T14:43:29.784768-0300 - INFO - validating limit date for: April 13, 2024
+2024-05-03T14:43:29.785768-0300 - INFO - Trying to parse date: April 13, 2024
+2024-05-03T14:43:29.861766-0300 - INFO - Starting validations for news
+2024-05-03T14:43:29.865268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:30.078269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:30.080268-0300 - INFO - Starting scraping of news: 57
+2024-05-03T14:43:30.112798-0300 - INFO - validating limit date for: April 13, 2024
+2024-05-03T14:43:30.113268-0300 - INFO - Trying to parse date: April 13, 2024
+2024-05-03T14:43:30.194768-0300 - INFO - Starting validations for news
+2024-05-03T14:43:30.197771-0300 - INFO - Downloading picture...
+2024-05-03T14:43:30.423269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:30.424268-0300 - INFO - Starting scraping of news: 58
+2024-05-03T14:43:30.460267-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:30.461269-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:30.543766-0300 - INFO - Starting validations for news
+2024-05-03T14:43:30.547768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:30.767769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:30.769268-0300 - INFO - Starting scraping of news: 59
+2024-05-03T14:43:30.802268-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:30.803268-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:30.886269-0300 - INFO - Starting validations for news
+2024-05-03T14:43:30.889266-0300 - INFO - Downloading picture...
+2024-05-03T14:43:31.170769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:31.172269-0300 - INFO - Starting scraping of news: 60
+2024-05-03T14:43:31.211270-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:31.212270-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:31.291767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:31.295268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:31.515768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:31.519268-0300 - INFO - Going to next page: 7
+2024-05-03T14:43:38.842299-0300 - INFO - Starting scraping of news: 61
+2024-05-03T14:43:38.877809-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:38.878769-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:38.963268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:38.965768-0300 - INFO - Downloading picture...
+2024-05-03T14:43:39.881769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:39.883268-0300 - INFO - Starting scraping of news: 62
+2024-05-03T14:43:39.924268-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:39.925268-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:40.012769-0300 - INFO - Starting validations for news
+2024-05-03T14:43:40.015767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:40.886770-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:40.887769-0300 - INFO - Starting scraping of news: 63
+2024-05-03T14:43:40.923268-0300 - INFO - validating limit date for: April 12, 2024
+2024-05-03T14:43:40.923768-0300 - INFO - Trying to parse date: April 12, 2024
+2024-05-03T14:43:41.010770-0300 - INFO - Starting validations for news
+2024-05-03T14:43:41.014268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:41.848769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:41.849767-0300 - INFO - Starting scraping of news: 64
+2024-05-03T14:43:41.887269-0300 - INFO - validating limit date for: April 11, 2024
+2024-05-03T14:43:41.888269-0300 - INFO - Trying to parse date: April 11, 2024
+2024-05-03T14:43:41.973767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:41.976769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:42.799767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:42.800767-0300 - INFO - Starting scraping of news: 65
+2024-05-03T14:43:42.835767-0300 - INFO - validating limit date for: April 11, 2024
+2024-05-03T14:43:42.836769-0300 - INFO - Trying to parse date: April 11, 2024
+2024-05-03T14:43:42.923268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:42.926267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:43.725295-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:43.727269-0300 - INFO - Starting scraping of news: 66
+2024-05-03T14:43:43.763279-0300 - INFO - validating limit date for: April 11, 2024
+2024-05-03T14:43:43.764267-0300 - INFO - Trying to parse date: April 11, 2024
+2024-05-03T14:43:43.849267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:43.852767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:44.728268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:44.729268-0300 - INFO - Starting scraping of news: 67
+2024-05-03T14:43:44.764270-0300 - INFO - validating limit date for: April 11, 2024
+2024-05-03T14:43:44.765268-0300 - INFO - Trying to parse date: April 11, 2024
+2024-05-03T14:43:44.847268-0300 - INFO - Starting validations for news
+2024-05-03T14:43:44.849769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:45.624268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:45.625768-0300 - INFO - Starting scraping of news: 68
+2024-05-03T14:43:45.660268-0300 - INFO - validating limit date for: April 10, 2024
+2024-05-03T14:43:45.661268-0300 - INFO - Trying to parse date: April 10, 2024
+2024-05-03T14:43:45.739768-0300 - INFO - Starting validations for news
+2024-05-03T14:43:45.743769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:46.510269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:46.511769-0300 - INFO - Starting scraping of news: 69
+2024-05-03T14:43:46.544295-0300 - INFO - validating limit date for: April 10, 2024
+2024-05-03T14:43:46.544768-0300 - INFO - Trying to parse date: April 10, 2024
+2024-05-03T14:43:46.631768-0300 - INFO - Starting validations for news
+2024-05-03T14:43:46.634295-0300 - INFO - Downloading picture...
+2024-05-03T14:43:47.401769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:47.403269-0300 - INFO - Starting scraping of news: 70
+2024-05-03T14:43:47.438270-0300 - INFO - validating limit date for: April 9, 2024
+2024-05-03T14:43:47.439267-0300 - INFO - Trying to parse date: April 9, 2024
+2024-05-03T14:43:47.530267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:47.532769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:48.298767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:48.299768-0300 - INFO - Going to next page: 8
+2024-05-03T14:43:55.110270-0300 - INFO - Starting scraping of news: 71
+2024-05-03T14:43:55.147793-0300 - INFO - validating limit date for: April 9, 2024
+2024-05-03T14:43:55.148768-0300 - INFO - Trying to parse date: April 9, 2024
+2024-05-03T14:43:55.236267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:55.239267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:55.466269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:55.467268-0300 - INFO - Starting scraping of news: 72
+2024-05-03T14:43:55.505770-0300 - INFO - validating limit date for: April 9, 2024
+2024-05-03T14:43:55.507270-0300 - INFO - Trying to parse date: April 9, 2024
+2024-05-03T14:43:55.593267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:55.596767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:55.829767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:55.830767-0300 - INFO - Starting scraping of news: 73
+2024-05-03T14:43:55.866268-0300 - INFO - validating limit date for: April 7, 2024
+2024-05-03T14:43:55.867270-0300 - INFO - Trying to parse date: April 7, 2024
+2024-05-03T14:43:55.948266-0300 - INFO - Starting validations for news
+2024-05-03T14:43:55.952267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:56.193269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:56.195770-0300 - INFO - Starting scraping of news: 74
+2024-05-03T14:43:56.234770-0300 - INFO - validating limit date for: April 7, 2024
+2024-05-03T14:43:56.235769-0300 - INFO - Trying to parse date: April 7, 2024
+2024-05-03T14:43:56.318270-0300 - INFO - Starting validations for news
+2024-05-03T14:43:56.321267-0300 - INFO - Downloading picture...
+2024-05-03T14:43:56.548768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:56.550268-0300 - INFO - Starting scraping of news: 75
+2024-05-03T14:43:56.586767-0300 - INFO - validating limit date for: April 6, 2024
+2024-05-03T14:43:56.587767-0300 - INFO - Trying to parse date: April 6, 2024
+2024-05-03T14:43:56.745767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:56.748769-0300 - INFO - Downloading picture...
+2024-05-03T14:43:56.976767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:56.978268-0300 - INFO - Starting scraping of news: 76
+2024-05-03T14:43:57.016266-0300 - INFO - validating limit date for: April 6, 2024
+2024-05-03T14:43:57.016767-0300 - INFO - Trying to parse date: April 6, 2024
+2024-05-03T14:43:57.104270-0300 - INFO - Starting validations for news
+2024-05-03T14:43:57.107266-0300 - INFO - Downloading picture...
+2024-05-03T14:43:57.363267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:57.364268-0300 - INFO - Starting scraping of news: 77
+2024-05-03T14:43:57.397767-0300 - INFO - validating limit date for: April 5, 2024
+2024-05-03T14:43:57.398267-0300 - INFO - Trying to parse date: April 5, 2024
+2024-05-03T14:43:57.480767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:57.483767-0300 - INFO - Downloading picture...
+2024-05-03T14:43:57.714269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:57.715769-0300 - INFO - Starting scraping of news: 78
+2024-05-03T14:43:57.752767-0300 - INFO - validating limit date for: April 6, 2024
+2024-05-03T14:43:57.753768-0300 - INFO - Trying to parse date: April 6, 2024
+2024-05-03T14:43:57.841767-0300 - INFO - Starting validations for news
+2024-05-03T14:43:57.844266-0300 - INFO - Downloading picture...
+2024-05-03T14:43:58.065268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:58.066268-0300 - INFO - Starting scraping of news: 79
+2024-05-03T14:43:58.103768-0300 - INFO - validating limit date for: April 5, 2024
+2024-05-03T14:43:58.104768-0300 - INFO - Trying to parse date: April 5, 2024
+2024-05-03T14:43:58.191269-0300 - INFO - Starting validations for news
+2024-05-03T14:43:58.195268-0300 - INFO - Downloading picture...
+2024-05-03T14:43:58.418768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:58.420267-0300 - INFO - Starting scraping of news: 80
+2024-05-03T14:43:58.453266-0300 - INFO - validating limit date for: April 5, 2024
+2024-05-03T14:43:58.453767-0300 - INFO - Trying to parse date: April 5, 2024
+2024-05-03T14:43:58.533267-0300 - INFO - Starting validations for news
+2024-05-03T14:43:58.536778-0300 - INFO - Downloading picture...
+2024-05-03T14:43:58.761767-0300 - INFO - News appended to data successfully.
+2024-05-03T14:43:58.763769-0300 - INFO - Going to next page: 9
+2024-05-03T14:44:05.628767-0300 - INFO - Starting scraping of news: 81
+2024-05-03T14:44:05.661268-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:05.662268-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:05.743767-0300 - INFO - Starting validations for news
+2024-05-03T14:44:05.746766-0300 - INFO - Downloading picture...
+2024-05-03T14:44:06.052768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:06.054770-0300 - INFO - Starting scraping of news: 82
+2024-05-03T14:44:06.091812-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:06.092268-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:06.180268-0300 - INFO - Starting validations for news
+2024-05-03T14:44:06.182767-0300 - INFO - Downloading picture...
+2024-05-03T14:44:06.478768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:06.480269-0300 - INFO - Starting scraping of news: 83
+2024-05-03T14:44:06.517768-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:06.518768-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:06.604269-0300 - INFO - Starting validations for news
+2024-05-03T14:44:06.606769-0300 - INFO - Downloading picture...
+2024-05-03T14:44:06.952768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:06.953769-0300 - INFO - Starting scraping of news: 84
+2024-05-03T14:44:06.988769-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:06.989268-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:07.076268-0300 - INFO - Starting validations for news
+2024-05-03T14:44:07.079269-0300 - INFO - Downloading picture...
+2024-05-03T14:44:07.417769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:07.418768-0300 - INFO - Starting scraping of news: 85
+2024-05-03T14:44:07.455792-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:07.456768-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:07.543295-0300 - INFO - Starting validations for news
+2024-05-03T14:44:07.546292-0300 - INFO - Downloading picture...
+2024-05-03T14:44:07.896769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:07.897769-0300 - INFO - Starting scraping of news: 86
+2024-05-03T14:44:07.933269-0300 - INFO - validating limit date for: April 4, 2024
+2024-05-03T14:44:07.934269-0300 - INFO - Trying to parse date: April 4, 2024
+2024-05-03T14:44:08.023768-0300 - INFO - Starting validations for news
+2024-05-03T14:44:08.026292-0300 - INFO - Downloading picture...
+2024-05-03T14:44:08.368269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:08.369270-0300 - INFO - Starting scraping of news: 87
+2024-05-03T14:44:08.404793-0300 - INFO - validating limit date for: April 3, 2024
+2024-05-03T14:44:08.405269-0300 - INFO - Trying to parse date: April 3, 2024
+2024-05-03T14:44:08.490792-0300 - INFO - Starting validations for news
+2024-05-03T14:44:08.493770-0300 - INFO - Downloading picture...
+2024-05-03T14:44:08.817769-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:08.818768-0300 - INFO - Starting scraping of news: 88
+2024-05-03T14:44:08.857766-0300 - INFO - validating limit date for: April 3, 2024
+2024-05-03T14:44:08.858768-0300 - INFO - Trying to parse date: April 3, 2024
+2024-05-03T14:44:08.946794-0300 - INFO - Starting validations for news
+2024-05-03T14:44:08.949267-0300 - INFO - Downloading picture...
+2024-05-03T14:44:09.314768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:09.315767-0300 - INFO - Starting scraping of news: 89
+2024-05-03T14:44:09.352266-0300 - INFO - validating limit date for: April 3, 2024
+2024-05-03T14:44:09.353268-0300 - INFO - Trying to parse date: April 3, 2024
+2024-05-03T14:44:09.439267-0300 - INFO - Starting validations for news
+2024-05-03T14:44:09.442267-0300 - INFO - Downloading picture...
+2024-05-03T14:44:09.756768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:09.758268-0300 - INFO - Starting scraping of news: 90
+2024-05-03T14:44:09.795300-0300 - INFO - validating limit date for: April 3, 2024
+2024-05-03T14:44:09.795796-0300 - INFO - Trying to parse date: April 3, 2024
+2024-05-03T14:44:09.884268-0300 - INFO - Starting validations for news
+2024-05-03T14:44:09.886795-0300 - INFO - Downloading picture...
+2024-05-03T14:44:10.203768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:10.205767-0300 - INFO - Going to next page: 10
+2024-05-03T14:44:19.381273-0300 - INFO - Starting scraping of news: 91
+2024-05-03T14:44:19.431271-0300 - INFO - validating limit date for: April 2, 2024
+2024-05-03T14:44:19.432769-0300 - INFO - Trying to parse date: April 2, 2024
+2024-05-03T14:44:19.540296-0300 - INFO - Starting validations for news
+2024-05-03T14:44:19.543771-0300 - INFO - Downloading picture...
+2024-05-03T14:44:20.629269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:20.630268-0300 - INFO - Starting scraping of news: 92
+2024-05-03T14:44:20.669287-0300 - INFO - validating limit date for: April 1, 2024
+2024-05-03T14:44:20.670268-0300 - INFO - Trying to parse date: April 1, 2024
+2024-05-03T14:44:20.762769-0300 - INFO - Starting validations for news
+2024-05-03T14:44:20.765768-0300 - INFO - Downloading picture...
+2024-05-03T14:44:21.894268-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:21.895267-0300 - INFO - Starting scraping of news: 93
+2024-05-03T14:44:21.937270-0300 - INFO - validating limit date for: April 1, 2024
+2024-05-03T14:44:21.937768-0300 - INFO - Trying to parse date: April 1, 2024
+2024-05-03T14:44:22.030798-0300 - INFO - Starting validations for news
+2024-05-03T14:44:22.033768-0300 - INFO - Downloading picture...
+2024-05-03T14:44:23.114768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:23.116268-0300 - INFO - Starting scraping of news: 94
+2024-05-03T14:44:23.156267-0300 - INFO - validating limit date for: April 1, 2024
+2024-05-03T14:44:23.156768-0300 - INFO - Trying to parse date: April 1, 2024
+2024-05-03T14:44:23.246268-0300 - INFO - Starting validations for news
+2024-05-03T14:44:23.249267-0300 - INFO - Downloading picture...
+2024-05-03T14:44:24.284267-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:24.285768-0300 - INFO - Starting scraping of news: 95
+2024-05-03T14:44:24.324793-0300 - INFO - validating limit date for: April 3, 2024
+2024-05-03T14:44:24.325296-0300 - INFO - Trying to parse date: April 3, 2024
+2024-05-03T14:44:24.415293-0300 - INFO - Starting validations for news
+2024-05-03T14:44:24.417268-0300 - INFO - Downloading picture...
+2024-05-03T14:44:25.444775-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:25.446304-0300 - INFO - Starting scraping of news: 96
+2024-05-03T14:44:25.485300-0300 - INFO - validating limit date for: March 31, 2024
+2024-05-03T14:44:25.485802-0300 - INFO - Trying to parse date: March 31, 2024
+2024-05-03T14:44:25.578269-0300 - INFO - Starting validations for news
+2024-05-03T14:44:25.581308-0300 - INFO - Downloading picture...
+2024-05-03T14:44:26.614269-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:26.615267-0300 - INFO - Starting scraping of news: 97
+2024-05-03T14:44:26.653302-0300 - INFO - validating limit date for: March 31, 2024
+2024-05-03T14:44:26.654268-0300 - INFO - Trying to parse date: March 31, 2024
+2024-05-03T14:44:26.746794-0300 - INFO - Starting validations for news
+2024-05-03T14:44:26.749767-0300 - INFO - Downloading picture...
+2024-05-03T14:44:27.773768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:27.775270-0300 - INFO - Starting scraping of news: 98
+2024-05-03T14:44:27.814768-0300 - INFO - validating limit date for: March 31, 2024
+2024-05-03T14:44:27.815768-0300 - INFO - Trying to parse date: March 31, 2024
+2024-05-03T14:44:27.904269-0300 - INFO - Starting validations for news
+2024-05-03T14:44:27.907268-0300 - INFO - Downloading picture...
+2024-05-03T14:44:28.968794-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:28.969769-0300 - INFO - Starting scraping of news: 99
+2024-05-03T14:44:29.006295-0300 - INFO - validating limit date for: March 30, 2024
+2024-05-03T14:44:29.007268-0300 - INFO - Trying to parse date: March 30, 2024
+2024-05-03T14:44:29.097792-0300 - INFO - Starting validations for news
+2024-05-03T14:44:29.100268-0300 - INFO - Downloading picture...
+2024-05-03T14:44:30.128768-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:30.130270-0300 - INFO - Starting scraping of news: 100
+2024-05-03T14:44:30.171768-0300 - INFO - validating limit date for: March 30, 2024
+2024-05-03T14:44:30.172267-0300 - INFO - Trying to parse date: March 30, 2024
+2024-05-03T14:44:30.263793-0300 - INFO - Starting validations for news
+2024-05-03T14:44:30.266270-0300 - INFO - Downloading picture...
+2024-05-03T14:44:31.282270-0300 - INFO - News appended to data successfully.
+2024-05-03T14:44:31.283807-0300 - INFO - Going to next page: 11
+2024-05-03T14:44:31.302267-0300 - INFO - No next page found, scrapping is finished.
+2024-05-03T14:44:31.305294-0300 - INFO - Creating Excel file
+2024-05-03T14:44:31.360767-0300 - INFO - Saved Excel file
+2024-05-03T14:44:31.361769-0300 - INFO - Scrape of phrase 'Test' finished.
+2024-05-03T14:44:34.937767-0300 - INFO - Finishing process: Scrape Fresh News...
